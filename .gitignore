@@ -2,3 +2,4 @@ node_modules/
 build-web/
 .firebase/
 firebase-debug.log
+.DS_Store
