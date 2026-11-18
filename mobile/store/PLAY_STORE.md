@@ -38,8 +38,8 @@ Upload key SHA-256 fingerprint:
 | Asset | Requirement | Status |
 | --- | --- | --- |
 | App icon | 512×512 PNG | `store/play-icon-512.png` |
-| Feature graphic | 1024×500 PNG/JPG | To do |
-| Phone screenshots | 2–8, 16:9 or 9:16, min 320px side | To do (take from the emulator or a phone) |
+| Feature graphic | 1024×500 JPG/PNG, no transparency | `store/feature-graphic-1024x500.jpg` |
+| Phone screenshots | 2–8, long side at most 2× short side | `store/screenshots/01.png`–`06.png` (1080×1920), upload in this order |
 
 Short description (max 80 chars):
 
