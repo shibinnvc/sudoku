@@ -27,7 +27,7 @@ Upload key SHA-256 fingerprint:
 
 | Field | Value |
 | --- | --- |
-| Package name | `com.sudokustudio.sudoku_studio` (permanent once published) |
+| Package name | `com.shibinnvc.chachussudoku` (permanent once published) |
 | App name | Chachu's Sudoku |
 | Category | Games › Puzzle |
 | Min / target SDK | 24 / 36 |

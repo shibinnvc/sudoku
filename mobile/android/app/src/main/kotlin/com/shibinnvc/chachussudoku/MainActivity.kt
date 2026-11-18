@@ -1,4 +1,4 @@
-package com.sudokustudio.sudoku_studio
+package com.shibinnvc.chachussudoku
 
 import io.flutter.embedding.android.FlutterActivity
 
